@@ -4,6 +4,7 @@
 		"uniques": [
 			"No movement cost to pillage", 
 			"[+15]% Strength when stacked with [Worker]",
+			"May attack when embarked",
 			"Can only attack [Military] units"
 		],
 	},
