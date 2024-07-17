@@ -2,8 +2,8 @@
 	// Culture
 	{
 		"name": "discover cultural sign",
-		"notification": "We have discovered cultural sign in the ruins! (+20 culture)",
-		"uniques": ["Gain [20] [Culture]"],
+		"notification": "We have discovered cultural sign in the ruins! (+25 culture)",
+		"uniques": ["Gain [25] [Culture]"],
 		"color": "#cf8ff7"
 	},
 	{
@@ -15,7 +15,7 @@
 	{
 		"name": "shared cultural inspiration",
 		"notification": "Captured villagers share the secrets of their well-ordered society! (+[cultureAmount] culture)",
-		"uniques": ["Gain [75]-[100] [Culture]", "Only available <after [30] turns>"],
+		"uniques": ["Gain [80]-[125] [Culture]", "Only available <after [30] turns>"],
 		"color": "#cf8ff7"
 	},
 	{
@@ -35,33 +35,33 @@
 	{
 		"name": "discover a research note",
 		"notification": "We have discovered an Inventor's research note! (+[scienceAmount] science)",
-		"uniques": ["Gain [80]-[100] [Science]", "Only available <after [35] turns>"],
+		"uniques": ["Gain [100]-[125] [Science]", "Only available <after [35] turns>"],
 		"color": "#7f7fff"
 	},
 	{
 		"name": "stolen technology",
 		"notification": "We are succesfully take control of the stolen technology! (+[scienceAmount] science)",
-		"uniques": ["Gain [100]-[150] [Science]", "Only available <after [50] turns>"],
+		"uniques": ["Gain [150]-[200] [Science]", "Only available <after [50] turns>"],
 		"color": "#7f7fff"
 	},
 	
 	// Gold
 	{
 		"name": "small money",
-		"notification": "Small amount of money buried underground! (+50 gold)",
-		"uniques": ["Gain [50] [Gold]"],
+		"notification": "Small amount of money buried underground! (+75 gold)",
+		"uniques": ["Gain [75] [Gold]"],
 		"color": "#ffeb7f"
 	},
 	{
 		"name": "a pocket of gold",
-		"notification": "A pocket of gold buried underground! (+100 gold)",
-		"uniques": ["Gain [100] [Gold]"],
+		"notification": "A pocket of gold buried underground! (+150 gold)",
+		"uniques": ["Gain [150] [Gold]"],
 		"color": "#ffeb7f"
 	},
 	{
 		"name": "a stash of gold",
 		"notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-		"uniques": ["Gain [150]-[250] [Gold]"],
+		"uniques": ["Gain [200]-[400] [Gold]"],
 		"color": "#ffeb7f"
 	},
 	{
@@ -104,23 +104,35 @@
 		"excludedDifficulties": ["Immortal","Deity"]
 	},
 	{
-        "name": "save a merchant",
-        "notification": "We have succesfully save a [Great Merchant]!",
-        "uniques": ["Free [Great Merchant] found in the ruins"],
+                "name": "save a merchant",
+                "notification": "We have succesfully save a [Great Merchant]!",
+                "uniques": ["Free [Great Merchant] found in the ruins"],
 		"color": "#e89220"
-    },
-	
+        },
+        {
+                "name": "save an artist",
+                "notification": "We have succesfully save a [Great Artist]!",
+                "uniques": ["Free [Great Artist] found in the ruins"],
+		"color": "#e89220"
+        },
+        {
+                "name": "save an engineer",
+                "notification": "We have succesfully save a [Great Engineer]!",
+                "uniques": ["Free [Great Engineer] found in the ruins"],
+		"color": "#e89220"
+        },
+
 	// Military
 	{
 		"name": "your exploring unit receives training",
 		"notification": "An ancient tribe trained us in their ways of combat!",
-		"uniques": ["This Unit gains [15] XP"],
+		"uniques": ["This Unit gains [20] XP"],
 		"color": "#20afe8"
 	},
 	{
 		"name": "hell training",
 		"notification": "Your men experience a hellish training!",
-		"uniques": ["This Unit gains [30] XP", "Only available <after [30] turns>"],
+		"uniques": ["This Unit gains [40] XP", "Only available <after [30] turns>"],
 		"color": "#20afe8"
 	},
 	{
@@ -158,13 +170,13 @@
 	{
 		"name": "reveal nearby Luxury resource",
 		"notification": "You found notes of rare and valueable resources!",
-		"uniques": ["Reveal up to [All] [Luxury resource] within a [7] tile radius",
+		"uniques": ["Reveal up to [All] [Luxury resource] within a [10] tile radius",
 					"Only available <before [100] turns>"]
 	},
 	{
 		"name": "find a well-drawn map",
 		"notification": "We have found a well-drawn map in the ruins!",
-		"uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
+		"uniques": ["From a randomly chosen tile [7] tiles away from the ruins, reveal tiles up to [7] tiles away with [100]% chance"]
 	},
 	
 	// Triggerable
