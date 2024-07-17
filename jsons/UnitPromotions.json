@@ -3,8 +3,10 @@
 		"name": "Barbarian Strength I", // Barbarians Land
 		"uniques": [
 			"No movement cost to pillage", 
-			"[+15]% Strength when stacked with [Worker]",
+			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked",
+			"May capture killed [Military] units <with [50]% chance>",
+			"Destroys tile improvements when attacking",
 			"Can only attack [Military] units"
 		],
 	},
@@ -12,14 +14,14 @@
 		"name": "Barbarian Strength II", 
 		"uniques": [
 			"Invisible to non-adjacent units",
-			"[+25]% Strength <when attacking>",
-			"[+25]% Strength <when defending>"
+			"[+35]% Strength <when attacking>",
+			"[-25]% Strength <when defending>"
 		],
 	}
 	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
-			"[+10]% Strength <when defending>", 
+			"[+15]% Strength <when defending>", 
 			"[+1] Sight"
 		]
 	}
