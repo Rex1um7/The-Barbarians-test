@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Barbarian Strength", // Barbarians Land
+		"name": "Barbarian Strength I", // Barbarians Land
 		"uniques": [
 			"No movement cost to pillage", 
 			"[+15]% Strength when stacked with [Worker]",
@@ -8,6 +8,14 @@
 			"Can only attack [Military] units"
 		],
 	},
+	{
+		"name": "Barbarian Strength II", 
+		"uniques": [
+			"Invisible to non-adjacent units",
+			"[+25]% Strength <when attacking>",
+			"[+25]% Strength <when defending>"
+		],
+	}
 	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
