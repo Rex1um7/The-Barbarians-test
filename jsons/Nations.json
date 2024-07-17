@@ -12,7 +12,7 @@
 			"[+1] Movement <for [Scout] units>", 
 			"[+1] Movement <for [Wounded] units>",
 			"[{Military} {Land}] units gain the [Barbarian Strength I] promotion",
-			"[All] units gain the [Barbarian Strength II] promotion <upon entering the [Medieval era]>",
+			"[All] units gain the [Barbarian Strength II] promotion <after turn number [120]>",
 			"[+5]% Strength <within [2] tiles of a [Barbarian encampment]>",
                         "[+5]% Strength <within [1] tiles of a [Barbarian encampment]>"
 		]
