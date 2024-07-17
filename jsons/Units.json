@@ -18,9 +18,11 @@
 		"rangedStrength": 20,
 		"range": 1,
 		"cost": 25,
-		"uniques": ["Unbuildable", 
-					"Invisible to non-adjacent units", 
-					"[+1] Sight"],
+		"uniques": [
+			"Unbuildable", 
+			"Invisible to non-adjacent units", 
+			"[+1] Sight"
+		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -34,10 +36,13 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"uniques": ["[+400]% Strength <vs cities> <when attacking>", 
-					"Can only attack [City] units", 
-					"Self-destructs when attacking",
-					"Earn [33]% of the damage done to [City] units as [Gold]"],
+		"uniques": [
+			//"Self-destructs when attacking",
+                        "Uncapturable",                        
+			"blast radius [3]",
+			"[+40] Air Interception Range",
+			"Earn [50]% of the damage done to [Military] units as [Gold]"
+		],
 		"attackSound": "shot"
 	}
 ]
