@@ -8,7 +8,7 @@
 		"uniques": [
 			"[+2] Sight <for [Scout] units>", 
 			"[+25]% Strength <for [All] units>", 
-                        "[+15]% Strength <for [Wounded] units>",
+                        "[+25]% Strength <for [Wounded] units>",
 			"[+1] Movement <for [Scout] units>", 
 			"[+1] Movement <for [Wounded] units>",
 			"[{Military} {Land}] units gain the [Barbarian Strength I] promotion",
