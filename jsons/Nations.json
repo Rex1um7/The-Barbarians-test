@@ -6,12 +6,15 @@
 		"innerColor": [185,12,12],
 		"style": "Barbarians",
 		"uniques": [
-			"[+1] Sight <for [Scout] units>", 
-			"[+33]% Strength <for [All] units>", 
+			"[+2] Sight <for [Scout] units>", 
+			"[+25]% Strength <for [All] units>", 
+                        "[+15]% Strength <for [Wounded] units>",
 			"[+1] Movement <for [Scout] units>", 
+			"[+1] Movement <for [Wounded] units>",
 			"[{Military} {Land}] units gain the [Barbarian Strength I] promotion",
-			"[All] units gain the [Barbarian Strength II] promotion <upon entering the [Industrial era]>"
-			"[+10]% Strength <within [2] tiles of a [Barbarian encampment]>",
+			"[All] units gain the [Barbarian Strength II] promotion <upon entering the [Medieval era]>",
+			"[+5]% Strength <within [2] tiles of a [Barbarian encampment]>",
+                        "[+5]% Strength <within [1] tiles of a [Barbarian encampment]>"
 		]
 	}
 ]
