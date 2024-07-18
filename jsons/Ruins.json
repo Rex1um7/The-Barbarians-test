@@ -15,7 +15,7 @@
 	{
 		"name": "shared cultural inspiration",
 		"notification": "Captured villagers share the secrets of their well-ordered society! (+[cultureAmount] culture)",
-		"uniques": ["Gain [80]-[125] [Culture]", "Only available <after turn number [30]>"],
+		"uniques": ["Gain [80]-[125] [Culture]", "Only available <for [30] turns>"],
 		"color": "#cf8ff7"
 	},
 	{
