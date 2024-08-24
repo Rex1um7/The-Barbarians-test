@@ -3,7 +3,7 @@
 		"name": "Barbarian encampment", 
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			//"Unpillagable", 
+			"UnPillagable",
 			"Provides a random bonus when entered", 
 			"Unbuildable"
 		],
