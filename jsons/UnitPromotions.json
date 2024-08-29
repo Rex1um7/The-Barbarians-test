@@ -7,6 +7,7 @@
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
 			"Heals [25] damage if it kills a unit",
+			"Can see over obstacles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Unable to capture cities"
 		],
