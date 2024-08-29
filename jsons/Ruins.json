@@ -126,25 +126,25 @@
 	{
 		"name": "your exploring unit receives training",
 		"notification": "An ancient tribe trained us in their ways of combat!",
-		"uniques": ["This Unit gains [20] XP"],
+		"uniques": ["[This Unit] gains [20] XP"],
 		"color": "#20afe8"
 	},
 	{
 		"name": "hell training",
 		"notification": "Your men experience a hellish training!",
-		"uniques": ["This Unit gains [40] XP", "Only available <after turn number [30]>"],
+		"uniques": ["[This Unit] gains [40] XP", "Only available <after turn number [30]>"],
 		"color": "#20afe8"
 	},
 	{
 		"name": "explorer equipment",
 		"notification": "Our unit finds equipments hidden in the ruins!",
-		"uniques": ["This Unit gains the [Explorer] promotion", "Only available <after turn number [20]>"],
+		"uniques": ["[This Unit] gains the [Explorer] promotion", "Only available <after turn number [20]>"],
 		"color": "#20afe8"
 	},
 	{
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["This Unit upgrades for free including special upgrades"],
+        "uniques": ["[This Unit] upgrades for free including special upgrades"],
 		"color": "#20afe8"
     },
 	{
