@@ -7,15 +7,15 @@
 		"style": "Barbarians",
 		"uniques": [
 			"[+2] Sight <for [Scout] units>", 
-			"[+25]% Strength <for [All] units> <hidden from users>", 
-                        "[+25]% Strength <for [Wounded] units> <hidden from users>",
+			"[+33]% Strength <for [All] units> <hidden from users>", 
+                        "[+33]% Strength <for [Wounded] units> <when defending> <hidden from users>",
 			"[+1] Movement <for [Scout] units>", 
 			"[+1] Movement <for [Wounded] units>",
 			"[Military] units gain the [Barbarian Strength I] promotion",
 			"[All] units gain the [Barbarian Strength II] promotion <after turn number [120]>",
 			"[{Military} {Ranged}] units gain the [Logistics] promotion <when below [20] HP>",
-			"[+5]% Strength <within [2] tiles of a [Barbarian encampment]>",
-                        "[+5]% Strength <within [1] tiles of a [Barbarian encampment]>"
+			"[+10]% Strength <within [2] tiles of a [Barbarian encampment]>",
+                        "[+10]% Strength <within [1] tiles of a [Barbarian encampment]>"
 		]
 	}
 ]
