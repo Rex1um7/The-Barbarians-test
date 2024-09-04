@@ -8,6 +8,7 @@
 			"May attack when embarked <for [Melee] units>",
 			"No damage penalty for wounded units",
 			"Can see over obstacles",
+			"Can pass through impassable tiles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Unable to capture cities"
 		],
