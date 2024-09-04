@@ -7,8 +7,8 @@
 		"style": "Barbarians",
 		"uniques": [
 			"[+2] Sight <for [Scout] units>", 
-			"[+20]% Strength <for [All] units> <hidden from users>", 
-                        "[+20]% Strength <for [Wounded] units> <when defending> <hidden from users>",
+			"[+15]% Strength <for [All] units> <hidden from users>", 
+                        "[+15]% Strength <for [Wounded] units> <when defending> <hidden from users>",
 			"[+1] Movement <for [Scout] units>", 
 			"[Military] units gain the [Barbarian Strength I] promotion",
 			"[All] units gain the [Barbarian Strength II] promotion <after turn number [120]>",
