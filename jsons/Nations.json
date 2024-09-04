@@ -12,7 +12,10 @@
 			"[+1] Movement <for [Scout] units>", 
 			"[Military] units gain the [Barbarian Strength I] promotion",
 			"[All] units gain the [Barbarian Strength II] promotion <after turn number [150]>",
-			"[{Military} {Ranged}] units gain the [Logistics] promotion <when below [20] HP>",
+			"[{Military} {Ranged}] units gain the [Logistics] promotion <when below [25] HP> <hidden from users>",
+			"[{Military} {Melee}] units gain the [Blitz] promotion <upon losing at least [20] HP in a single attack> <hidden from users>",
+			"[-25]% Strength <for units with [Logistics]> <hidden from users>",
+			"[-25]% Strength <for units with [Blitz]> <hidden from users>",
 			"[+15]% Strength <within [2] tiles of a [Barbarian encampment]>",
                         "[+15]% Strength <within [1] tiles of a [Barbarian encampment]>"
 		]
