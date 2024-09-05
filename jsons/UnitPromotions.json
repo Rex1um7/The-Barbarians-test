@@ -17,8 +17,8 @@
 		"name": "Barbarian Strength II", 
 		"uniques": [
 			"Invisible to non-adjacent units",
-			"Nuclear weapon of Strength [0]",
-			"Blast radius [1]",
+			"Nuclear weapon of Strength [1]",
+			"Blast radius [0]",
 			"[+15]% Strength <when attacking>",
 			"[-33]% Strength <when defending>"
 		],
