@@ -42,7 +42,7 @@
                         "Uncapturable",                        
 			"Blast radius [3]",
 			"[100]% chance to intercept air attacks",
-			"[+150]% Damage when intercepting"
+			"[+150]% Damage when intercepting",
 			"Earn [50]% of the damage done to [Military] units as [Gold]"
 		],
 		"attackSound": "shot"
