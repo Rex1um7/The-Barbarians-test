@@ -7,8 +7,8 @@
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
 			"No damage penalty for wounded units",
+			"Heals [20] damage if it kills a unit",
 			"Can see over obstacles",
-			"Can pass through impassable tiles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Unable to capture cities"
 		],
@@ -16,7 +16,7 @@
 	{
 		"name": "Barbarian Strength II", 
 		"uniques": [
-			"Invisible to non-adjacent units",
+			"[+1] Movement",
 			"Nuclear weapon of Strength [1]",
 			"Blast radius [0]",
 			"[+15]% Strength <when attacking>",
