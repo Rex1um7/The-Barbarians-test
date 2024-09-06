@@ -16,8 +16,8 @@
 			"[All] units gain the [Barbarian Strength II] promotion <after turn number [150]>",
 			"[{Military} {Ranged}] units gain the [Logistics] promotion <when below [33] HP>",
 			"[{Military} {Melee}] units gain the [Blitz] promotion <upon losing at least [25] HP in a single attack>",
-			"[-25]% Strength <for units with [Logistics]> <hidden from users>",
-			"[-25]% Strength <for units with [Blitz]> <hidden from users>",
+			"[-25]% Strength <for units with [Logistics]>",
+			"[-25]% Strength <for units with [Blitz]>",
 		]
 	}
 ]
