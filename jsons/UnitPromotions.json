@@ -5,6 +5,7 @@
 			"No movement cost to pillage", 
 			"No defensive terrain bonus",
 			"[+15]% Strength when stacked with [Civilian]",
+			"[+10]% Strength <upon defeating a [Military] unit>",
 			"May attack when embarked <for [Melee] units>",
 			"No damage penalty for wounded units",
 			"Heals [20] damage if it kills a unit",
@@ -17,10 +18,8 @@
 		"name": "Barbarian Strength II", 
 		"uniques": [
 			"[+1] Movement",
-			"Nuclear weapon of Strength [1]",
-			"Blast radius [0]",
-			"[+15]% Strength <when attacking>",
-			"[-33]% Strength <when defending>"
+			"[+50]% Strength <when attacking> <with [20]% chance>",
+			"[+100]% Strength <when attacking> <with [5]% chance>"
 		],
 	}
 	{
