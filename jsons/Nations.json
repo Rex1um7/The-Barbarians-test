@@ -7,8 +7,7 @@
 		"style": "Barbarians",
 		"uniques": [
 			"[+2] Sight <for [Scout] units>", 
-			"[+10]% Strength <for [All] units>", 
-			"[+5]% Strength <within [2] tiles of a [Barbarian encampment]>",
+			"[+15]% Strength <for [Wounded] units>", 
                         "[+5]% Strength <within [1] tiles of a [Barbarian encampment]>",
 			"[+1] Movement <for [Scout] units>", 
 			"[Military] units gain the [Barbarian Strength I] promotion",
