@@ -1,6 +1,7 @@
 {
     "constants": {
         "maxXPfromBarbarians": 9999,
+        "barbarianModifier": 0.25,
     }
     "isBaseRuleset": false,
 }
