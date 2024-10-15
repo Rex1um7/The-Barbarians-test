@@ -8,7 +8,6 @@
 		"uniques": [
 			"[+2] Sight <for [Scout] units>", 
 			"[+10]% Strength <for [All] units>", 
-                        "[+10]% Strength <for [Wounded] units> <when defending>",
 			"[+5]% Strength <within [2] tiles of a [Barbarian encampment]>",
                         "[+5]% Strength <within [1] tiles of a [Barbarian encampment]>",
 			"[+1] Movement <for [Scout] units>", 
