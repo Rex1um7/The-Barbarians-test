@@ -4,6 +4,7 @@
 		"uniques": [
 			"No movement cost to pillage", 
 			"No defensive terrain bonus",
+			"[-5] HP when healing",
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
 			"No damage penalty for wounded units",
