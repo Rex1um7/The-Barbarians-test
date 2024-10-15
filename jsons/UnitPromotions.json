@@ -8,7 +8,7 @@
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
 			"No damage penalty for wounded units",
-			"Heals [20] damage if it kills a unit",
+			"Heals [15] damage if it kills a unit",
 			"Can see over obstacles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 		],
