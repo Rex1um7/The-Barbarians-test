@@ -15,9 +15,9 @@
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Destroys tile improvements when attacking <for [Mounted] units>",
 			"Destroys tile improvements when attacking <for [Armored] units>",
-			"[-33]% Strength <for [Mounted] units> <when defending>",
-			"[-33]% Strength <for [Armored] units> <when defending>",
-			"[+2] Movement <for [Mounted] units>",
+			"[-15]% Strength <for [Mounted] units> <when defending> <vs [Military] units>",
+			"[-15]% Strength <for [Armored] units> <when defending> <vs [Military] units>",
+			"[+1] Movement <for [Mounted] units>",
 			"[+2] Movement <for [Armored] units>",
 		],
 	},
@@ -28,10 +28,9 @@
 			"[+5] HP when healing",
 			"Ignorse terrain cost",
 			"Unit will heal every turn, even if it performs an action",
-			"[-33]% Strength <when defending> <vs [Military] units>",
+			"[-15]% Strength <when defending> <vs [Military] units>",
 			"[+100]% Strength <vs [City]>",
-			"[+33]% Strength <when attacking> <with [25]% chance>",
-			"[+100]% Strength <when attacking> <with [10]% chance>"
+			"[1] free [Atomic Bomb] units appear <after discovering [Nuclear Fusion]> <upon being defeated> <with [20]% chance>"
 		],
 	},
 	{
