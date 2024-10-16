@@ -13,7 +13,7 @@
 			"[Sword] units gain the [Revenge I] promotion",
 			"[Gunpowder] units gain the [Revenge II] promotion",
 			"[Melee Water] units gain the [Revenge III] promotion",
-			"[All] units gain the [Barbarian Strength II] promotion <after turn number [150]>",
+			"[All] units gain the [Barbarian Strength II] promotion <upon entering the [Industrial era]>",
 		]
 	}
 ]
