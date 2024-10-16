@@ -25,7 +25,7 @@
 		],
 	},
 	{
-		"name": Revenge I", // Barbarians Sword
+		"name": "Revenge I", // Barbarians Sword
 		"uniques": [
 			"[1] free [Archer] units appear <after discovering [Agriculture]> <before discovering [Construction]>",
 			"[1] free [Scout] units appear <after discovering [Agriculture]> <before discovering [Compass]>",
@@ -35,7 +35,7 @@
 		],
 	},
 	{
-		"name": Revenge II", // Barbarians Gunpowder
+		"name": "Revenge II", // Barbarians Gunpowder
 		"uniques": [
 			"[1] free [Warfarer] units appear <after discovering [Navigation]>",
 			"[1] free [Frigate] units appear <after discovering [Navigation]> <before discovering [Steam Power]> <upon being defeated>",
