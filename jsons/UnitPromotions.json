@@ -2,6 +2,7 @@
 	{
 		"name": "Barbarian Strength I", // Barbarians Land
 		"uniques": [
+			"Can only attack [Military] units",
 			"No movement cost to pillage", 
 			"No defensive terrain bonus",
 			"All adjacent units heal [+15] HP when healing",
