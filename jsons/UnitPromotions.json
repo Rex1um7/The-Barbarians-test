@@ -12,6 +12,7 @@
 			"Ignores Zone of Control",
 			"Can see over obstacles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
+			"Destroys tile improvements when attacking <for [Mounted] units>",
 			"Destroys tile improvements when attacking <for [Armored] units>",
 			"[-33]% Strength <for [Mounted] units> <when defending>",
 			"[-33]% Strength <for [Armored] units> <when defending>",
