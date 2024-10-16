@@ -8,13 +8,14 @@
 			"[-5] HP when healing",
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
+			"May capture killed [All] units",
 			"Ignores Zone of Control",
 			"Can see over obstacles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"[-33]% Strength <for [Mounted] units> <when defending>",
 			"[-33]% Strength <for [Armored] units> <when defending>",
 			"[+2] Movement <for [Mounted] units>",
-			"[+2] Movement <for [Armored] units>"
+			"[+2] Movement <for [Armored] units>",
 		],
 	},
 	{
