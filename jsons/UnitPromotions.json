@@ -24,6 +24,7 @@
 		"name": "Barbarian Strength II", 
 		"uniques": [
 			"[+2] Movement",
+			"[+1] Sight",
 			"[+33]% Strength <when attacking> <with [25]% chance>",
 			"[+100]% Strength <when attacking> <with [10]% chance>"
 		],
