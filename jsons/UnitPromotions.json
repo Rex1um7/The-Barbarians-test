@@ -7,20 +7,52 @@
 			"[-5] HP when healing",
 			"[+15]% Strength when stacked with [Civilian]",
 			"May attack when embarked <for [Melee] units>",
-			"No damage penalty for wounded units",
 			"Heals [15] damage if it kills a unit",
 			"Can see over obstacles",
 			"Destroys tile improvements when attacking <for [Ranged] units>",
+			"[-33]% Strength <for [Mounted] units>",
+			"[-33]% Strength <for [Armored] units>",
+			"[+2] Movement <for [Mounted] units>",
+			"[+2] Movement <for [Armored] units>"
 		],
 	},
 	{
 		"name": "Barbarian Strength II", 
 		"uniques": [
-			"[+1] Movement",
-			"[+50]% Strength <when attacking> <with [20]% chance>",
-			"[+100]% Strength <when attacking> <with [5]% chance>"
+			"[+2] Movement",
+			"[+33]% Strength <when attacking> <with [25]% chance>",
+			"[+100]% Strength <when attacking> <with [10]% chance>"
 		],
-	}
+	},
+	{
+		"name": Revenge I", // Barbarians Sword
+		"uniques": [
+			"Free [Archer] appears <after discovering [Agriculture]> <before discovering [Construction]>",
+			"Free [Scout] appears <after discovering [Agriculture]> <before discovering [Compass]>",
+			"Free [Composite Bowman] appears <after discovering [Construction]> <before discovering [Machinery]>",
+			"Free [Crossbowman] appears <after discovering [Machinery]> <before discovering [Gunpowder]>",
+			"[2] Free [Knight] units appear <after discovering [Chivalry]> <upon being defeated>"
+		],
+	},
+	{
+		"name": Revenge II", // Barbarians Gunpowder
+		"uniques": [
+			"[1] Free [Warfarer] units appear <after discovering [Navigation]>",
+			"[1] Free [Frigate] units appear <after discovering [Navigation]> <before discovering [Steam Power]> <upon being defeated>",
+			"[1] Free [Cannon] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
+			"[2] Free [Knight] units appear <before discovering [Military Science]> <upon being defeated>",
+			"[1] Free [Artillery] units appear <after discovering [Military Science]> <before discovering [Ballistics]>",
+			"[2] Free [Cavalry] units appear <after discovering [Military Science]> <before discovering [Combustion]> <upon being defeated>",
+			"[2] Free [Artillery] units appear <after discovering [Ballistics]> <before discovering [Rocketry]>",
+			"[2] Free [Landship] units appear <after discovering [Combustion]> <before discovering [Combined Arms]> <upon being defeated>",
+			"[2] Free [Rocket Artillery] units appear <after discovering [Ballistics]>",
+			"[3] Free [Tank] units appear <after discovering [Combined Arms]> <before discovering [Lasers]> <upon being defeated>",
+			"[2] Free [Tank] units appear <after discovering [Lasers]> <before discovering [Nuclear Fusion]> <upon being defeated>",
+			"[1] Free [Modern Armor] units appear <after discovering [Nuclear Fusion]> <before discovering [Future Tech]> <upon being defeated>",
+			"[2] Free [Modern Armor] units appear <after discovering [Future Tech]> <upon being defeated>",
+			"[1] Free [Giant Death Robot] units appear <after discovering [Future Tech]> <upon being defeated>",
+		],
+	},
 	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
