@@ -61,7 +61,7 @@
 			"[1] free [Giant Death Robot] units appear <after discovering [Future Tech]> <upon being defeated>",
 			"[1] free [Suicider] units appear <after discovering [Gunpowder]>",
 			"[1] free [Suicider] units appear <after discovering [Military Science]>",
-			"[2] free [Suicider] units appear <upon entering the [Industrial era]> <upon being defeated>",
+			//"[2] free [Suicider] units appear <upon entering the [Industrial era]> <upon being defeated>",
 		],
 	},
 	{
@@ -79,7 +79,7 @@
 			"[1] free [Nuclear Submarine] units appear <after discovering [Telecommunications]> <upon being defeated>",
 			"[1] free [Missile Cruiser] units appear <after discovering [Robotics]>",
 			"[1] free [Missile Cruiser] units appear <after discovering [Robotics]> <upon being defeated>",
-			"[2] free [Suicider] units appear <upon entering the [Industrial era]> <upon being defeated>",
+			//"[2] free [Suicider] units appear <upon entering the [Industrial era]> <upon being defeated>",
 		],
 	},
 	{
