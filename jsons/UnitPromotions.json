@@ -46,8 +46,10 @@
 	{
 		"name": "Revenge II", // Barbarians Gunpowder
 		"uniques": [
-			"[1] free [Warfarer] units appear <after discovering [Navigation]>",
+			"[1] free [Wayfarer] units appear <after discovering [Navigation]>",
 			"[1] free [Cannon] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
+			"[1] free [Suicider] units appear <after discovering [Gunppowder]>",
+			"[2] free [Suicider] units appear <after discovering [Gunppowder]> <upon being defeated>",
 			"[2] free [Knight] units appear <before discovering [Military Science]> <upon being defeated>",
 			"[1] free [Artillery] units appear <after discovering [Military Science]> <before discovering [Ballistics]>",
 			"[2] free [Cavalry] units appear <after discovering [Military Science]> <before discovering [Combustion]> <upon being defeated>",
@@ -75,7 +77,7 @@
 			"[1] free [Nuclear Submarine] units appear <after discovering [Telecommunications]>",
 			"[1] free [Nuclear Submarine] units appear <after discovering [Telecommunications]> <upon being defeated>",
 			"[1] free [Missile Cruiser] units appear <after discovering [Robotics]>",
-			"[2] free [Missile Cruiser] units appear <after discovering [Robotics]>",
+			"[1] free [Missile Cruiser] units appear <after discovering [Robotics]> <upon being defeated>",
 		],
 	},
 	{
