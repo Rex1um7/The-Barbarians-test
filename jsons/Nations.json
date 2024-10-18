@@ -6,10 +6,6 @@
 		"innerColor": [185,12,12],
 		"style": "Barbarians",
 		"uniques": [
-			"[1] free [Brute] units appear <before discovering [Iron Working]> <every [8] turns>",
-			"[2] free [Brute] units appear <after discovering [Iron Working]> <before discovering [Steel]> <every [8] turns>",
-			"[1] free [Swordsman] units appear <after discovering [Steel]> <before discovering [Gunpowder]> <every [8] turns>",
-			"[2] free [Swordsman] units appear <after discovering [Steel]> <before discovering [Gunpowder]> <every [6] turns>",
 			"[+10]% Strength <for [Wounded] units>", 
 			"[+1] Movement <for [Scout] units>", 
 			"[Military] units gain the [Barbarian Strength I] promotion",
