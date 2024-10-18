@@ -58,7 +58,7 @@
 			"[1] free [Modern Armor] units appear <after discovering [Nuclear Fusion]> <before discovering [Future Tech]> <upon being defeated>",
 			"[2] free [Modern Armor] units appear <after discovering [Future Tech]> <upon being defeated>",
 			"[1] free [Giant Death Robot] units appear <after discovering [Future Tech]> <upon being defeated>",
-			"[1] free [Suicider] units appear <after discovering [Gunpowder]>",
+			"[2] free [Technical] units appear <after discovering [Mobile Tactics]>",
 		],
 	},
 	{
