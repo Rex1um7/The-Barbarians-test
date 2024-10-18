@@ -1,5 +1,5 @@
 [
-	{
+	/*{
 		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
@@ -9,7 +9,7 @@
 		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
-	},
+	},*/
 	{
 		"name": "Wayfarer",
 		"unitType": "Scout",
