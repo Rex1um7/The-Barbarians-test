@@ -31,8 +31,8 @@
 		"unitType": "Armored",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 32,
-		"rangedStrength": 32,
+		"strength": 26,
+		"rangedStrength": 34,
 		"range": 1,
 		"interceptRange": 40,
 		"cost": 150,
@@ -40,10 +40,9 @@
 		"uniques": [
 			//"Self-destructs when attacking",
                         "Uncapturable",                        
-			"Blast radius [3]",
+			"Blast radius [1]",
 			"[100]% chance to intercept air attacks",
 			"[+150]% Damage when intercepting",
-			"Earn [50]% of the damage done to [Military] units as [Gold]"
 		],
 		"attackSound": "shot"
 	}
