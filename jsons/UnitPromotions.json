@@ -84,7 +84,8 @@
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
 			"[+15]% Strength <when defending>", 
-			"[+1] Sight"
+			"[+1] Sight",
+			"Can see over obstacles"
 		]
 	}
 ]
