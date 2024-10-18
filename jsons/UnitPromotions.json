@@ -36,10 +36,6 @@
 	{
 		"name": "Revenge I", // Barbarians Sword
 		"uniques": [
-			"[1] free [Brute] units appear <before discovering [Iron Working]>",
-			"[3] free [Brute] units appear <after discovering [Iron Working]> <before discovering [Steel]>",
-			"[1] free [Swordsman] units appear <after discovering [Steel]> <before discovering [Gunpowder]>",
-			"[2] free [Swordsman] units appear <after discovering [Steel]> <before discovering [Gunpowder]>",
 			"[1] free [Archer] units appear <after discovering [Agriculture]> <before discovering [Construction]>",
 			"[1] free [Scout] units appear <after discovering [Agriculture]> <before discovering [Compass]>",
 			"[1] free [Composite Bowman] units appear <after discovering [Construction]> <before discovering [Machinery]>",
