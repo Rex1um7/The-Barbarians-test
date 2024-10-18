@@ -36,10 +36,17 @@
 	{
 		"name": "Revenge I", // Barbarians Sword
 		"uniques": [
-			"[1] free [Archer] units appear <after discovering [Agriculture]> <before discovering [Construction]>",
-			"[1] free [Scout] units appear <after discovering [Agriculture]> <before discovering [Compass]>",
+			"[2] free [Archer] units appear <after discovering [Agriculture]> <before discovering [Construction]>",
+			"[2] free [Scout] units appear <after discovering [Agriculture]> <before discovering [Compass]>",
 			"[1] free [Composite Bowman] units appear <after discovering [Construction]> <before discovering [Machinery]>",
+			"[1] free [Composite Bowman] units appear <after discovering [Machinery]> <before discovering [Gunpowder]>",
 			"[1] free [Crossbowman] units appear <after discovering [Machinery]> <before discovering [Gunpowder]>",
+			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
+			"[1] free [Catapult] units appear <after discovering [Physics]> <before discovering [Chemistry]> <upon being defeated>",
+			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Chemistry]>",
+			"[1] free [heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]>",
+			"[1] free [heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]> <upon being defeated>",
+			"[1] free [Knight] units appear <after discovering [Chivalry]>",
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <upon being defeated>"
 		],
 	},
