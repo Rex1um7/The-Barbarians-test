@@ -44,8 +44,8 @@
 			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 			"[1] free [Catapult] units appear <after discovering [Physics]> <before discovering [Chemistry]> <upon being defeated>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Chemistry]>",
-			"[1] free [heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]>",
-			"[1] free [heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]> <upon being defeated>",
+			"[1] free [Heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]>",
+			"[1] free [Heavy Chariot] units appear <after discovering [The Wheel]> <before discovering [Chivalry]> <upon being defeated>",
 			"[1] free [Knight] units appear <after discovering [Chivalry]>",
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <upon being defeated>"
 		],
