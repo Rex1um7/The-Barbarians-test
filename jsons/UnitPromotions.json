@@ -44,10 +44,11 @@
 			"[2] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Chemistry]>",
 			"[1] free [Chariot Archer] units appear <after discovering [The Wheel]> <before discovering [Chivalry]>",
 			"[1] free [Chariot Archer] units appear <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
+			"[1] free [Horseman] units appear <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <before discovering [Military Science]>",
 			"[1] free [Knight] units appear <after discovering [Metallurgy]> <before discovering [Military Science]>",
 			//when defeated
-			"[2] free [Spearman] units appear <upon being defeated> <removing the [Revenge I] promotion>",
+			"[2] free [Spearman] units appear <upon being defeated>",
 			
 		],
 	},
