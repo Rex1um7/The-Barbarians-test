@@ -72,6 +72,13 @@
 		],
 	},
 	{
+		"name": "Tribe", // Barbarians Settler
+		"uniques": [
+			"Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>",
+			"Withdraws before melee combat",
+		],
+	},
+	{
 		"name": "Explorer", // Ruins effecr
 		"uniques": [
 			"[+15]% Strength <when defending>", 
