@@ -55,7 +55,7 @@
 		"name": "Revenge II", // Barbarians Gunpowder
 		"uniques": [
 			//when spawn
-			"[2] free [Arquebusier] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>""
+			"[2] free [Arquebusier] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
 			//when defeated
 			
 		],
