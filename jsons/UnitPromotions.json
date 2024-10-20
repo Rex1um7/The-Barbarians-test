@@ -76,6 +76,7 @@
 		"uniques": [
 			"Can instantly construct a [Barbarian encampment] improvement <upon being defeated>",
 			"[2] free [Catapult] units appear <upon being defeated> <after discovering [Mathematics]> <before discovering [Physics]>",
+			"[2] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 		],
 	},
 	{
