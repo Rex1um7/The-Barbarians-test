@@ -17,8 +17,8 @@
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Destroys tile improvements when attacking <for [Mounted] units>",
 			"Destroys tile improvements when attacking <for [Armored] units>",
-			"[-20]% Strength <for [Mounted] units>",
-			"[-20]% Strength <for [Armored] units>",
+			"[-15]% Strength <for [Mounted] units>",
+			"[-15]% Strength <for [Armored] units>",
 			"[+2] Movement <for [Mounted] units>",
 			"[+2] Movement <for [Armored] units>",
 		],
@@ -48,7 +48,8 @@
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <before discovering [Military Science]>",
 			"[1] free [Knight] units appear <after discovering [Metallurgy]> <before discovering [Military Science]>",
 			//when defeated
-			"[2] free [Spearman] units appear <upon being defeated>",
+			"[2] free [Horseman] units appear <upon being defeated> <before discovering [Chivalry]>",
+			"[1] free [Scout] units appear <upon being defeated> <before discovering [Compass]>",
 			
 		],
 	},
