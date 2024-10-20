@@ -12,7 +12,7 @@
 			"May capture killed [All] units <with [33]% chance>",
 			"Ignores Zone of Control",
 			"Can see over obstacles",
-			"Can enter ice tiles",
+			"Can enter ice tiles <for [All] units>",
 			"[+2] Sight <for [Scout] units>", 
 			"Destroys tile improvements when attacking <for [Ranged] units>",
 			"Destroys tile improvements when attacking <for [Mounted] units>",
