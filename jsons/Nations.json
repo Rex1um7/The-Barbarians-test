@@ -13,7 +13,7 @@
 			"[Scout] units gain the [Tribe] promotion",
 			"[Mounted] units gain the [Tribe] promotion",
 			"[Sword] units gain the [Revenge I] promotion",
-			"[Gunpowder] units gain the [Revenge II] promotion",
+			"[{Melee}{Gunpowder}] units gain the [Revenge II] promotion",
 			"[Melee Water] units gain the [Revenge III] promotion",
 		]
 	}
