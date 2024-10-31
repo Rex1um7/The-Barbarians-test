@@ -2,7 +2,8 @@
 	{
 		"name": "Barbarian Strength I", // Barbarians Land
 		"uniques": [
-			"Can only attack [Military] units",
+			"May not annex cities",
+			"[-100]% Strength <vs [City]> <when attacking>",
 			"No movement cost to pillage", 
 			"[1] Movement point cost to embark",
 			"No defensive terrain bonus",
@@ -33,7 +34,7 @@
 			"Ignores terrain cost",
 			"Unit will heal every turn, even if it performs an action",
 			"[-15]% Strength <when defending> <vs [Military] units>",
-			"[+150]% Strength <vs [City]>",
+			"[+150]% Strength <vs [City]> <when defending>",
 		],
 	},
 	{
