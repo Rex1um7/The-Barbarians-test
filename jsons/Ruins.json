@@ -75,14 +75,14 @@
 	{
 		"name": "a praying priest",
 		"notification": "A dying priest pray for you! (+[faithAmount] faith)",
-		"uniques": ["Hidden when religion is disabled", "Gain [100]-[250] [Faith]", "Only available <after founding a Pantheon>",
+		"uniques": ["Only available <when religion is enabled>", "Gain [100]-[250] [Faith]", "Only available <after founding a Pantheon>",
 					"Only available <after turn number [40]>"],
 		"color": "#CDDDF4"
 	},
 	{
 		"name": "a wandering oracle",
 		"notification": "An oracle foresee your future! (+[faithAmount] faith)",
-		"uniques": ["Hidden when religion is disabled", "Gain [250]-[350] [Faith]", "Only available <after founding a Pantheon>",
+		"uniques": ["Only available <when religion is enabled>", "Gain [250]-[350] [Faith]", "Only available <after founding a Pantheon>",
 					"Only available <after turn number [60]>"],
 		"color": "#CDDDF4"
 	},
