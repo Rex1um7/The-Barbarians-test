@@ -4,7 +4,7 @@
 		"uniques": [
 			"[-100]% Strength <vs [City]> <when attacking>",
 			"No movement cost to pillage", 
-			"Unable to pillage tiles <for [Water] units>",
+			"Unable to pillage tiles <in [Water] tiles>",
 			"[1] Movement point cost to embark",
 			"No defensive terrain bonus",
 			"[+15]% Strength when stacked with [Civilian]",
