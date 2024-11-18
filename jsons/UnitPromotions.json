@@ -44,8 +44,7 @@
 		"name": "Revenge I", // Barbarians Sword
 		"uniques": [
 			//when spawn
-			"[1] free [Scout] units appear <before discovering [Compass]>",
-			"[2] free [Explorer] units appear <after discovering [Compass]> <before discovering [Navigation]>",
+			"[1] free [Explorer] units appear <after discovering [Compass]> <before discovering [Navigation]>",
 			"[1] free [Archer] units appear <after discovering [Agriculture]> <before discovering [Machinery]>",
 			"[1] free [Composite Bowman] units appear <after discovering [Construction]> <before discovering [Machinery]>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Chemistry]>",
@@ -55,7 +54,6 @@
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <before discovering [Military Science]>",
 			"[1] free [Knight] units appear <after discovering [Metallurgy]> <before discovering [Military Science]>",
 			"[2] free [Crossbowman] units appear <after discovering [Machinery]> <before discovering [Gunpowder]>",
-			"[3] free [Explorer] units appear <after discovering [Navigation]> <before discovering [Rifling]>",
 			
 		],
 	},
@@ -89,7 +87,9 @@
 			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Dynamite]>",
 			"[2] free [Bombard Cannon] units appear <after discovering [Chemistry]> <before discovering [Dynamite]>",
-			"[2] free [Artillery] units appear <after discovering [Dynamite]>",
+			"[2] free [Artillery] units appear <after discovering [Dynamite]> <before discovering [Rocketry]>",
+			"[1] free [Artillery] units appear <after discovering [Rocketry]>",
+			"[2] free [Rocket Artillery] units appear <after discovering [Rocketry]>",
 		],
 	},
 	{
