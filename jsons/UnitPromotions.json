@@ -12,7 +12,6 @@
 			"[-40]% Strength <for [Embarked] units> <when attacking>",
 			"May capture killed [All] units <for [Melee] units> <with [20]% chance>",
 			"Can see over obstacles <for [Water] units>",
-			"Can instantly construct a [Barbarian encampment] improvement <with [0] to [4] neighboring [Barbarian encampment] tiles> <upon defeating a [Military] unit>",      
 			"[+1] Sight <for [{Land}{Melee}] units>", 
 			"[+1] Sight <for [Scout] units>", 
 			"[-3] Sight <for [{Land}{Ranged}] units>", 
@@ -82,7 +81,7 @@
 	{
 		"name": "Tribe", // Barbarians Mounted and Scout
 		"uniques": [
-			"Can instantly construct a [Barbarian encampment] improvement <upon defeating a [Wounded] unit>",
+			"Can instantly construct a [Barbarian encampment] improvement <with [0] to [4] neighboring [Barbarian encampment] tiles> <upon defeating a [Military] unit>",      
 			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Dynamite]>",
 			"[2] free [Bombard Cannon] units appear <after discovering [Chemistry]> <before discovering [Dynamite]>",
