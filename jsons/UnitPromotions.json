@@ -76,12 +76,14 @@
 			"[1] free [Galleass] units appear <after discovering [Compass]> <before discovering [Navigation]>",
 			"[1] free [Frigate] units appear <after discovering [Astronomy]> <before discovering [Combustion]>",
 			"[1] free [Frigate] units appear <after discovering [Navigation]> <before discovering [Combustion]>",
+			"[1] free [Frigate] units appear <after discovering [Steam Power]> <before discovering [Combustion]>",
+			"[1] free [Armored Cruiser] units appear <after discovering [Steam Power]> <before discovering [Combustion]>",
 		],
 	},
 	{
 		"name": "Tribe", // Barbarians Mounted and Scout
 		"uniques": [
-			"Can instantly construct a [Barbarian encampment] improvement <with [0] to [4] neighboring [Barbarian encampment] tiles> <upon defeating a [Military] unit>",      
+			"[1] free [Pikeman] units appear <with [0] to [4] neighboring [Barbarian encampment] tiles> <upon defeating a [Military] unit>",      
 			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Dynamite]>",
 			"[2] free [Bombard Cannon] units appear <after discovering [Chemistry]> <before discovering [Dynamite]>",
