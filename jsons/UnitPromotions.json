@@ -2,7 +2,7 @@
 	{
 		"name": "Barbarian Strength I", // Barbarians Land
 		"uniques": [
-			"[-33]% Strength <vs [City]>",
+			"[-25]% Strength <vs [City]>",
 			"No movement cost to pillage", 
 			"Unable to pillage tiles <in [Water] tiles>",
 			"[1] Movement point cost to disembark",
@@ -18,8 +18,8 @@
 			"[-15]% Strength <for [{Land}{Ranged}] units> <when defending>",
 			"[-33]% Strength <when attacking> <for [Embarked] units>",
 			"[+33]% Strength <for [Scout] units>",
-			"[-25]% Strength <for [Mounted] units> <when attacking>",
-			"[-25]% Strength <for [Armored] units> <when attacking>",
+			"[-20]% Strength <for [Mounted] units> <when attacking>",
+			"[-20]% Strength <for [Armored] units> <when attacking>",
 			"Ignores terrain cost <for [Ranged] units>",
 			"[+1] Movement <for [Scout] units>",
 			"[+1] Movement <for [Mounted] units>",
