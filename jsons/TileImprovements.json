@@ -5,6 +5,7 @@
 		"uniques": [
 			"Unpillagable",
 			"Provides a random bonus when entered", 
+			"Unbuildable"
 		],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	}
