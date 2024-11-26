@@ -93,11 +93,19 @@
 		],
 	},
 	{
-		"name": "Explorer", // Ruins effecr
+		"name": "Explorer", // Ruins effect
 		"uniques": [
 			"[+15]% Strength <when defending>", 
 			"[+1] Sight",
 			"Can see over obstacles"
 		]
-	}
+	},
+	{
+		"name": "Shock Tactics", // Ruins effect
+		"uniques": [
+			"[-10]% Strength <for [Enemy] units> <when adjacent to a [Military] unit>",
+			"[+1] Movement",
+		]
+	},
+	
 ]
