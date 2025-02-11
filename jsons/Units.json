@@ -34,15 +34,15 @@
 		"strength": 32,
 		"rangedStrength": 32,
 		"range": 1,
-		"interceptRange": 40,
+		"interceptRange": 99,
 		"cost": 150,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Civil Service",
 		"uniques": [
 			"Self-destructs when attacking",
                         "Uncapturable",                        
-			"Blast radius [3]",
+			"Blast radius [1]",
 			"[100]% chance to intercept air attacks",
-			"[+150]% Damage when intercepting",
+			"[+1000]% Damage when intercepting",
 		],
 		"attackSound": "shot"
 	}
