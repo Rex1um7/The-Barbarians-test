@@ -13,6 +13,7 @@
 			"May capture killed [All] units <for [Melee] units> <with [20]% chance>",
 			"Heals [10] damage if it kills a unit <for [Melee] units>",
                         "May travel on Water tiles without embarking <for [{Land}{Ranged}] units>",
+			"Can pass through impassable tiles <upon entering a [Mountain] tile>",
 			"Can see over obstacles <for [Water] units>",
 			"[+1] Sight <for [{Land}{Melee}] units>", 
 			"[+1] Sight <for [Scout] units>", 
