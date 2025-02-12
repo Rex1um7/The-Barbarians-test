@@ -13,15 +13,17 @@
 	{
 		"name": "Wayfarer",
 		"unitType": "Scout",
+		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 20,
 		"rangedStrength": 20,
 		"range": 1,
 		"cost": 25,
+		"requiredTech": "Compass", 
 		"uniques": [
 			"Unbuildable", 
 			"Invisible to non-adjacent units", 
-			"[+1] Sight"
+			"[+1] Sight",
 		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
