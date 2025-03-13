@@ -41,10 +41,10 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Self-destructs when attacking",
-                        "Uncapturable",                        
-			"Blast radius [1]",
+                        "Uncapturable",
+			"Nuclear weapon of Strength [9]",
+			"Blast radius [2]",
 			"[100]% chance to intercept air attacks",
-			"[+1000]% Damage when intercepting",
 		],
 		"attackSound": "shot"
 	}
