@@ -38,13 +38,16 @@
 		"range": 1,
 		"interceptRange": 99,
 		"cost": 150,
-		"requiredTech": "Civil Service",
+		"requiredTech": "Gunpowder",
 		"uniques": [
 			"Self-destructs when attacking",
+			"Rough terrain penalty",
+			"Can enter ice tiles",
                         "Uncapturable",
 			"Nuclear weapon of Strength [9]",
 			"Blast radius [2]",
-			"[100]% chance to intercept air attacks",
+			"[80]% chance to intercept air attacks",
+			"[+150]% Damage when intercepting"
 		],
 		"attackSound": "shot"
 	}
