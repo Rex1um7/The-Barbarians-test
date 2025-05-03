@@ -43,7 +43,7 @@
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Chemistry]>",
 			"[1] free [Chariot Archer] units appear <after discovering [The Wheel]> <before discovering [Chivalry]>",
 			"[1] free [Chariot Archer] units appear <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
-			"[2] free [Horseman] units appear <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
+			"[1] free [Horseman] units appear <after discovering [Horseback Riding]> <before discovering [Chivalry]>",
 			"[1] free [Knight] units appear <after discovering [Chivalry]> <before discovering [Military Science]>",
 			"[1] free [Knight] units appear <after discovering [Metallurgy]> <before discovering [Military Science]>",
 			"[2] free [Crossbowman] units appear <after discovering [Machinery]> <before discovering [Gunpowder]>",
@@ -54,8 +54,8 @@
 		"name": "Revenge II", // Barbarians Gunpowder
 		"uniques": [
 			//when spawn
-			"[2] free [Arquebusier] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
-			"[2] free [Cannon] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
+			"[1] free [Arquebusier] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
+			"[1] free [Cannon] units appear <after discovering [Gunpowder]> <before discovering [Industrialization]>",
 			"[2] free [Gatling Gun] units appear <after discovering [Industrialization]>",
 			"[2] free [Machine Gun] units appear <after discovering [Ballistics]>",
 		],
@@ -74,12 +74,12 @@
 		],
 	},
 	{
-		"name": "Tribe", // Barbarians Mounted and Scout
+		"name": "Tribe", // Barbarians Scout
 		"uniques": [
-			"[1] free [Pikeman] units appear <with [0] to [4] neighboring [Barbarian encampment] tiles> <upon defeating a [Military] unit>",      
+			"[1] free [Warrior] units appear <upon ending a turn in a [Enemy Land] tile>",      
 			"[1] free [Catapult] units appear <after discovering [Mathematics]> <before discovering [Physics]>",
 			"[1] free [Trebuchet] units appear <after discovering [Physics]> <before discovering [Dynamite]>",
-			"[2] free [Bombard Cannon] units appear <after discovering [Chemistry]> <before discovering [Dynamite]>",
+			"[1] free [Bombard Cannon] units appear <after discovering [Chemistry]> <before discovering [Dynamite]>",
 			"[2] free [Artillery] units appear <after discovering [Dynamite]> <before discovering [Rocketry]>",
 			"[1] free [Artillery] units appear <after discovering [Rocketry]>",
 			"[2] free [Rocket Artillery] units appear <after discovering [Rocketry]>",
